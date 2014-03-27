@@ -45,7 +45,7 @@ var question5 = new Question({
   name: 'question5',
   append: '#qr2',
   header: 'Fråga 5',
-  question: 'Från vilket radnummer i main.js görs den första "attribute modification" på knappen "Böcker" i <a href="http://alpha.kib.ki.se/referensguide">Referensguiden</a>?',
+  question: 'Från vilket radnummer i main.js görs den första "attribute modification" vid klick på knappen "Böcker" i <a href="http://alpha.kib.ki.se/referensguide">Referensguiden</a>?',
   answer: 'MTEx',
 });
 
