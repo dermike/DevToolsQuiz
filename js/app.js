@@ -41,7 +41,7 @@ var question5 = new Question({
   name: 'question5',
   header: 'Fråga 5',
   question: 'Från vilket radnummer i app.js görs en "attribute modification" på text-fälten på denna sida vid rätt svar?',
-  answer: 'Njc=',
+  answer: 'NjE=',
 });
 
 var question6 = new Question({
